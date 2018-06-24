@@ -1,4 +1,4 @@
-package com.jaeweather.android;
+package com.jaeweather.android.service;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
